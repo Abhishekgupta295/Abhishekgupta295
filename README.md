@@ -77,50 +77,7 @@ Building scalable web applications ☁️ • Automating deployments 🚀 • Le
 
 ---
 
-## 📂 Featured Projects
 
-### ☁️ Cloud Native GitOps Platform
-
-- AWS EKS
-- Terraform
-- ArgoCD
-- Helm
-- GitHub Actions
-- Prometheus
-- Grafana
-
----
-
-### 🚀 Enterprise CI/CD Platform
-
-- Jenkins
-- Docker
-- Kubernetes
-- ELK
-- Prometheus
-- Grafana
-
----
-
-### 💻 MERN Stack Projects
-
-- DevTinder
-- NetflixGPT
-- Eazyy-Shoppyy
-- Authentication System
-- REST APIs
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Abhishekgupta2952nd&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekgupta2952nd&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekgupta2952nd&layout=compact&theme=tokyonight)
-
----
 
 ## 🌱 Currently Learning
 
