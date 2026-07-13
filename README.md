@@ -15,7 +15,7 @@ Building scalable web applications ☁️ • Automating deployments 🚀 • Le
 - 💼 Software Engineer with **2+ years of IT experience**
 - 💻 Experienced in **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js & MongoDB**
 - ☁️ Skilled in **AWS, Docker, Kubernetes, Terraform, Jenkins & GitHub Actions**
-- ⚙️ Passionate about **Cloud, DevOps, CI/CD, Automation and Infrastructure as Code**
+- ⚙️ Passionate about **Cloud, DevOps, CI/CD, Automation and Infrastructure as Code(IaC)**
 - 🌱 Currently learning **Advanced Kubernetes, GitOps, AWS Architecture & DevSecOps**
 - 🎯 Looking for opportunities in **Full Stack (MERN)** and **DevOps / Cloud Engineering**
 
